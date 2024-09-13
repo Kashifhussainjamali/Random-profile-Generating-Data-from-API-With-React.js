@@ -1,8 +1,10 @@
-# React + Vite
+# Description 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"This application generates random people's profiles by fetching data from an API. 
+It displays various details such as name,image, location,email,password,address and contact information in a user-friendly interface.
+Built using React for dynamic rendering and real-time data updates."
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+https://github.com/user-attachments/assets/e509e873-1349-4cfe-bc7a-a10a5829631b
+
